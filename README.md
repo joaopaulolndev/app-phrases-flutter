@@ -1,4 +1,4 @@
-# frases
+# Phrases
 
 A new Flutter project.
 
