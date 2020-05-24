@@ -14,4 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# app-phrases-flutter
+
+# Screen App Phrases
+<img width="300px" src="https://github.com/joaopaulolndev/app-phrases-flutter/blob/master/images/screen_app.png?raw=true" />
